@@ -1,4 +1,4 @@
-let A = 2024;
+let A = 2000;
 let B = 2007;
 let resultado = A - B;
 
